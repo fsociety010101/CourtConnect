@@ -12,7 +12,6 @@
 		87456C442AD0954A00D48D69 /* LocationListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87456C432AD0954A00D48D69 /* LocationListView.swift */; };
 		87456C462AD0955700D48D69 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87456C452AD0955700D48D69 /* ProfileView.swift */; };
 		87E8E7132AD0711A00B6E415 /* CourtConnectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E8E7122AD0711A00B6E415 /* CourtConnectApp.swift */; };
-		87E8E7152AD0711A00B6E415 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E8E7142AD0711A00B6E415 /* ContentView.swift */; };
 		87E8E7172AD0711E00B6E415 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87E8E7162AD0711E00B6E415 /* Assets.xcassets */; };
 		87E8E71A2AD0711E00B6E415 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87E8E7192AD0711E00B6E415 /* Preview Assets.xcassets */; };
 		87E8E7212AD0724D00B6E415 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 87E8E7202AD0724D00B6E415 /* GoogleService-Info.plist */; };
@@ -52,7 +51,6 @@
 		87456C452AD0955700D48D69 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		87E8E70F2AD0711A00B6E415 /* CourtConnect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CourtConnect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87E8E7122AD0711A00B6E415 /* CourtConnectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourtConnectApp.swift; sourceTree = "<group>"; };
-		87E8E7142AD0711A00B6E415 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		87E8E7162AD0711E00B6E415 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87E8E7192AD0711E00B6E415 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		87E8E7202AD0724D00B6E415 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -116,7 +114,6 @@
 			isa = PBXGroup;
 			children = (
 				87E8E7122AD0711A00B6E415 /* CourtConnectApp.swift */,
-				87E8E7142AD0711A00B6E415 /* ContentView.swift */,
 				87E8E7162AD0711E00B6E415 /* Assets.xcassets */,
 				87E8E7202AD0724D00B6E415 /* GoogleService-Info.plist */,
 				87E8E7182AD0711E00B6E415 /* Preview Content */,
@@ -241,7 +238,6 @@
 			files = (
 				87456C402AD0950300D48D69 /* AppTabView.swift in Sources */,
 				87456C442AD0954A00D48D69 /* LocationListView.swift in Sources */,
-				87E8E7152AD0711A00B6E415 /* ContentView.swift in Sources */,
 				87456C422AD0953000D48D69 /* LocationMapView.swift in Sources */,
 				87456C462AD0955700D48D69 /* ProfileView.swift in Sources */,
 				87E8E7132AD0711A00B6E415 /* CourtConnectApp.swift in Sources */,
